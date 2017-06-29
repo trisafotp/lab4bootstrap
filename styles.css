@@ -1,0 +1,7 @@
+.fakeNews img {
+  display: inline-block;
+}
+
+.fakeNews img {
+  float: left;
+}
